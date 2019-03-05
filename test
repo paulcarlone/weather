@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="https://www.cpc.ncep.noaa.gov/products/international/nmme/plots_monthly/glbOcean_gfdl_flor_sst_skill_FebIC_1ML.png" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
